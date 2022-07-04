@@ -1,3 +1,3 @@
 # This is a product filter
 ---
-Created using "Buider" pattern.
+Created using "Builder" pattern.
